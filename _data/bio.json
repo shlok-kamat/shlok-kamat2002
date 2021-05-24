@@ -1,0 +1,163 @@
+{
+    "basics": {
+      "name": "Shlok Kamat",
+      "label": "Student",
+      "picture": "https://shlok2002.github.io/images/profile.jpg",
+      "email": "shlok.kamat18@gmail.com",
+      "phone": "+91 9820277412",
+      "website": "https://shlok2002.github.io",
+      "summary": "I am studying for a B.Tech in Electrical and Electronics Engineering in the Department of Electrical Engineering at Shiv Nadar University. I expect to graduate in Spring, 2024.",
+      "location": {
+        "address": " ",
+        "postalCode": "122003",
+        "city": "Gurugram",
+        "countryCode": "IND",
+        "region": "Haryana",
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "Shlok2002",
+          "url": "https://github.com/Shlok2002"
+        },
+        {
+          "network": "linkedin",
+          "username": "Shlok Kamat",
+          "url": "www.linkedin.com/in/shlok-s-kamat"
+        },
+        {
+          "network": "instagram",
+          "username": "shlokkamat",
+          "url": "https://www.instagram.com/shlokkamat/"
+        }
+      ]
+    },
+    "interests": [
+      {
+        "name": "electric vehicles",
+        "keywords": [
+          "autonomous driving",
+          "urban mobility",
+          "automotive electronics"
+        ]
+      },
+      {
+        "name": "motorsport racing",
+        "keywords": [
+          "Formula 1 racing",
+          "Formula E racing"
+        ]
+      },
+      {
+        "name": "data analysis and artificial intelligence",
+        "keywords": [
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": " Programming Languages and Frameworks",
+        "level": "basic",
+        "keywords": [
+          "C",
+          "Python",
+          "Verilog",
+          "MATLAB",
+        ]
+      },
+      {
+        "name": "Toolsets/OS/Softwares",
+        "level": "",
+        "keywords": [
+          "MacOS",
+          "Windows 8/10",
+          "Git/GitHub",
+          "Autodesk Maya",
+          "Blender"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Shiv Nadar University, G.B Nagar, U.P.",
+        "area": "Electrical and Electronics (expected Spring, 2024)",
+        "studyType": "B.Tech",
+        "startDate": "2020-08-17",
+        "endDate": "Present",
+        "gpa": "8.82",
+        "courses": [
+          "Digital Electronics",
+          "Basics of electrical and electronics engineering",
+          "Mathematical Modelling"     
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Zenida Studios Pvt. Ltd",
+        "position": "Game Tester - Android",
+        "website": "https://www.zenidastudios.com/",
+        "startDate": "2020-10",
+        "endDate": "2020-12",
+        "summary": "Game testing for a startup under Atal Incubation Mission (AIM), NITI AAYOG, Govt. of India",
+        "highlights": [
+          "Tested mobile games across various platforms and gained extensive knowledge of game development processes",
+          "Used exploit testing to find, reproduce and accurately report 30+ issues in detailed bug reports",
+          "Communicated with the developers the steps to improve the game physics by 28%"
+        ]
+      },
+      {
+        "company": "ITC Hotels",
+        "position": "Student Intern - Engineering",
+        "website": "https://www.itchotels.com/in/en",
+        "startDate": "May 2018",
+        "endDate": "May 2018",
+        "summary": "",
+        "highlights": [
+          "Observed everyday functioning of the engineering department at ITC Maurya-New Delhi, Sheraton-New Delhi and ITC Grand Bharat, Manesar",
+          "Studied the use of sustainable engineering practices in the hospitality industry and how it could be applied to other industries",
+          "Undertook training on MICROS Property Management System (PMS) to aid the engineering department"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Nexus - Shiv Nadar University",
+        "website": "https://www.linkedin.com/company/nexus-shiv-nadar-university/mycompany/",
+        "position": "Webmaster",
+        "startDate": "2021-01-01",
+        "endDate": "Present",
+        "summary": "Supervising and overseeing social media advertising campaigns for the club website",
+        "highlights": [
+          "Creating and publishing of relevant, original, high-quality content for club events",
+          "Learning new tools to manage content."
+        ]
+      },
+      {
+        "organization": "",
+        "website": "",
+        "position": "Professional organization involvement",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          "Member, IEEE Student Branch, 2020-Present",
+          "Technical Member, Roboyantriki, Varsity Robotics Club, 2020-Present"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Dean's List Recipient",
+        "date": "Monsoon 2020",
+        "awarder": "Shiv Nadar University",
+        "summary": "The Dean's List rewards academic excellence (Top 10% of the class) in a particular semester. The awardee serves as role a models for the entire SNU community."
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": ""
+      }
+    ]
+  }
